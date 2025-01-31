@@ -34,7 +34,7 @@
 ---
 
 ### :hammer_and_wrench: Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,cpp,mysql,php,cs,react,angular,nodejs,next js,express,tailwind,spring,linux,git,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,cpp,mysql,php,cs,react,angular,nodejs,express,tailwind,spring,linux,git,mongodb,firebase)](https://skillicons.dev)
 
 ---
 
@@ -95,3 +95,5 @@ I am passionate about leveraging technology to create innovative solutions that 
 
 ### :handshake: Let's Connect!
 I’m always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via email at **Elvisnoko18@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/nokodev). Let's build something amazing together! 🚀
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">

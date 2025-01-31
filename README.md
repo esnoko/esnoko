@@ -34,7 +34,7 @@
 ---
 
 ### :hammer_and_wrench: Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,cpp,mysql,php,cs,react,angular,nodejs,express,tailwind,spring,linux,git,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,cpp,mysql,php,cs,react,angular,nodejs,express,tailwind,spring,linux,git,mongodb,firebase)](https://skillicons.dev)
 
 ---
 

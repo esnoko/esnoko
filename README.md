@@ -4,6 +4,7 @@
 
 <!--Social media links-->
 <div id="badges" align="center">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <a href="https://www.linkedin.com/in/nokodev">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -34,7 +35,7 @@
 ---
 
 ### :hammer_and_wrench: Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,cpp,mysql,php,cs,react,angular,nodejs,express,tailwind,spring,linux,git,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,cpp,mysql,php,cs,react,angular,nodejs,next js,express,tailwind,spring,linux,git,mongodb,firebase)](https://skillicons.dev)
 
 ---
 

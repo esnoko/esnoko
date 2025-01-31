@@ -27,7 +27,7 @@
 - 👀 I’m interested in software development, web development, and IT technical support.
 - 🛠️ I am a full-stack developer with experience in both front-end and back-end technologies.
 - 🍂 I am proficient in **JavaScript/TypeScript, Java, HTML/CSS, C++, SQL, PHP, and C#**.
-- 🌱 I’m currently learning **React, Angular, and Spring Boot**.
+- 🌱 I’m currently learning **React, Angular, Vue.js, Next.js and Spring Boot**.
 - 💞️ I’m looking to collaborate on web development, mobile apps, and IT support projects.
 - 📫 How to reach me: **Elvisnoko18@gmail.com**
 

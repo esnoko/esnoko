@@ -23,7 +23,7 @@
 ### 👋 Hi there, I’m Elvis Noko Kgomo.
 
 ### :man_technologist: About ME:
-- I'm a National Diploma in IT graduate from Tshwane University of Technology, majoring in Software Development.
+- I'm an IT graduate from Tshwane University of Technology, majoring in Software Development.
 - 👀 I’m interested in software development, web development, and IT technical support.
 - 🛠️ I am a full-stack developer with experience in both front-end and back-end technologies.
 - 🍂 I am proficient in **JavaScript/TypeScript, Java, HTML/CSS, C++, SQL, PHP, and C#**.

@@ -39,7 +39,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tafara-N&theme=alduin&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=esnoko&theme=alduin&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 

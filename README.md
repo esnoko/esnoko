@@ -38,46 +38,8 @@
 
 ---
 
-### :briefcase: Work Experience
-#### **IT Learner (WIL)** at Pietersburg Hospital (Jan 2024 - Dec 2024)
-- Assisted in installing and configuring health systems such as **eHIS, IBA, and RX**.
-- Deployed and configured desktops, laptops, and printers, ensuring seamless integration with existing systems.
-- Managed user accounts, including account creation, password resets, and access permissions.
-- Provided first and second-level **LAN and desktop support**, resolving technical issues efficiently.
-- Gained hands-on experience with transversal systems like **BlueZone, Baud, Bas, and Logis**.
-
-#### **Software Developer Intern** at Cognifyz Technologies (Nov 2024 - Jan 2025)
-- Enhanced **CRUD applications** to store task data using **file I/O**.
-- Implemented **web scraping** to fetch data from websites and present it in a user-friendly format.
-- Collaborated with the team to improve application functionality and user experience.
-
-#### **Web Developer Intern** at HexSoftwares (Oct 2024 - Nov 2024)
-- Built a **music player** using **Vanilla JavaScript**, featuring dynamic playlists, player controls, and responsive design.
-- Developed a **movie website** using **React**, showcasing my ability to create interactive and visually appealing web applications.
-
----
-
-### :computer: Projects
-#### **Health Linker**  
-[GitHub Link](https://github.com/esnoko/Healthlinker-android.git)  
-A **Spring Boot** healthcare application designed to provide patients with secure access to their medical records. This project demonstrates my ability to apply **OOP principles** in Java and develop scalable, user-friendly applications.
-
-#### **Salamance**  
-[Link](https://dev.tourney-ops.com/)  
-Collaborated with a team to build an **Angular-based front-end** for a Dota match monitoring and archiving system. My contributions focused on front-end development and implementing logic for microservices.
-
-#### **Enviro365 Waste Management API**  
-[GitHub Link](https://github.com/esnoko/Enviro365-Assessment.git)  
-A **Spring Boot** RESTful API that helps organizations and individuals manage waste categories, disposal guidelines, and recycling tips. This project highlights my ability to design and implement **RESTful APIs** for real-world applications.
-
----
-
-### :books: Education
-#### **Tshwane University of Technology**  
-**National Diploma in IT (Software Development)**  
-- Completed coursework in **programming, database design, and software development**, excelling in both theoretical and practical applications.
-- Engaged in hands-on projects, including the **Health-Linker** project, which allowed me to apply my knowledge to real-world scenarios.
-- Certifications: **Red Hat Certified System Administrator (RHCSA)**, **Cisco Networking Basics**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tafara-N&theme=alduin&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 

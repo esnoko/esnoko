@@ -10,7 +10,7 @@
   <a href="https://github.com/esnoko">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://esnoko.github.io/Portfolio/">
+  <a href="[https://esnoko.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>

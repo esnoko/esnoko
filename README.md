@@ -22,7 +22,7 @@
 
 # 👋 Hi, I'm Elvis Noko
 
-### Full Stack Developer | React • Node.js • Laravel • PHP
+### Full Stack Developer | React •Next.js • Node.js • Laravel • PHP
 
 I build secure, scalable web and mobile applications with a focus on **real-world systems, APIs, workflow automation, and developer tooling**.
 

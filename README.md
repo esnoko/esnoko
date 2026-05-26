@@ -1,32 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nokodev">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/esnoko">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://esnoko.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=esnoko&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
----
-
 # 👋 Hi, I'm Elvis Noko
 
-### Full Stack Developer | React •Next.js • Node.js • Laravel • PHP
+### Full Stack Developer | React • Node.js • Laravel • APIs • System Design
 
-I build secure, scalable web and mobile applications with a focus on **real-world systems, APIs, workflow automation, and developer tooling**.
+I build **production-style web applications** with a focus on scalable backend systems, REST APIs, authentication flows, and developer productivity tools.
 
-Currently improving **DevTrack**, a developer job-readiness dashboard designed to help developers track progress and improve visibility into their technical growth.
+I enjoy turning ideas into real working systems — especially dashboards, workflow platforms, and API-driven applications.
+
+Currently building and improving **DevTrack**, a developer job-readiness platform that tracks GitHub activity, skills, and progress to help developers improve their employability.
 
 ---
 
@@ -36,13 +16,19 @@ Currently improving **DevTrack**, a developer job-readiness dashboard designed t
 
 🔗 Live Demo: https://dev-track-lime.vercel.app
 
-DevTrack helps developers track growth, visualize progress, and improve job readiness through a modern dashboard experience.
+DevTrack is a full-stack platform that analyzes developer activity and helps track technical growth and job readiness.
 
-**Built with:**
-- React / Vite
-- Node.js / Express
-- REST APIs
-- Modern dashboard UI
+It combines GitHub data, skill tracking, and progress insights into a single dashboard experience.
+
+**Key Features:**
+- GitHub activity analysis (commits, repos, languages)
+- Developer progress tracking dashboard
+- Skill visibility and growth insights
+- REST API integration with GitHub
+- Responsive UI dashboard experience
+
+**Stack:**
+React • Node.js • Express • REST APIs • MongoDB
 
 ---
 
@@ -59,26 +45,27 @@ DevTrack helps developers track growth, visualize progress, and improve job read
 
 ---
 
-## 💼 What I Work On
+## 💼 What I Build
 
 - Full-stack web applications
-- REST API development
-- Authentication & RBAC systems
-- Workflow-driven platforms
-- Developer productivity tools
-- Mobile app development
+- RESTful APIs and backend systems
+- Authentication & role-based access systems
+- Developer tools and productivity platforms
+- Dashboard-based applications
+- Mobile + web integrations
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Focused On
 
-- AI-powered workflow integration
-- Cloud & deployment practices
-- Testing and scalable architectures
+- Building production-ready full-stack systems
+- Improving system design skills
+- Cloud deployment & scalability
+- AI-assisted developer tools
 
 ---
 
-## 🏆 GitHub Stats
+## 📊 GitHub Stats
 
 ![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=esnoko&theme=gruvbox_dark&show_icons=true)
 
@@ -91,7 +78,8 @@ DevTrack helps developers track growth, visualize progress, and improve job read
 ## 📫 Connect With Me
 
 📧 Elvisnoko18@gmail.com  
-💼 LinkedIn: linkedin.com/in/nokodev  
+💼 LinkedIn: https://linkedin.com/in/nokodev  
+🌐 Portfolio: https://esnoko.netlify.app  
 
 ---
 

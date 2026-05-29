@@ -1,88 +1,65 @@
 # 👋 Hi, I'm Elvis Noko
 
-### Full Stack Developer | React • Node.js • Laravel • APIs • System Design
+### Full-Stack Developer | System Builder | React • Node.js • Laravel • APIs
 
-I build **production-style web applications** with a focus on scalable backend systems, REST APIs, authentication flows, and developer productivity tools.
+I build production-ready full-stack systems with a strong focus on backend architecture, REST APIs, authentication systems, and developer tools.
 
-I enjoy turning ideas into real working systems — especially dashboards, workflow platforms, and API-driven applications.
-
-Currently building and improving **DevTrack**, a developer job-readiness platform that tracks GitHub activity, skills, and progress to help developers improve their employability.
+I specialize in turning ideas into real, usable software — especially dashboards, workflow systems, and API-driven applications.
 
 ---
 
-## 🚀 Featured Project
-
-### DevTrack — Developer Job Readiness Dashboard
+## 🚀 Featured Project — DevTrack (Main Focus)
 
 🔗 Live Demo: https://dev-track-lime.vercel.app
 
-DevTrack is a full-stack platform that analyzes developer activity and helps track technical growth and job readiness.
+DevTrack is my flagship full-stack system.
 
-It combines GitHub data, skill tracking, and progress insights into a single dashboard experience.
+It is a developer analytics platform that tracks GitHub activity and translates it into meaningful insights about skill growth and job readiness.
+
+It is designed to help developers understand their progress using real data, not assumptions.
 
 **Key Features:**
-- GitHub activity analysis (commits, repos, languages)
-- Developer progress tracking dashboard
-- Skill visibility and growth insights
-- REST API integration with GitHub
-- Responsive UI dashboard experience
+
+* GitHub API integration (repos, commits, languages)
+* Developer activity tracking and visualization
+* Skill progression dashboard
+* REST API backend architecture
+* Responsive analytics interface
 
 **Stack:**
 React • Node.js • Express • REST APIs • MongoDB
 
 ---
 
+## 🧠 What I Build
+
+* Full-stack web systems (not just UI apps)
+* REST APIs and backend services
+* Authentication and role-based systems
+* Dashboard and analytics platforms
+* Developer productivity tools
+
+---
+
 ## 🛠 Tech Stack
 
-### Frontend
-![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind)
-
-### Backend
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb)
-
-### Tools & Workflow
-![My Skills](https://skillicons.dev/icons?i=git,linux,firebase)
-
----
-
-## 💼 What I Build
-
-- Full-stack web applications
-- RESTful APIs and backend systems
-- Authentication & role-based access systems
-- Developer tools and productivity platforms
-- Dashboard-based applications
-- Mobile + web integrations
-
----
-
-## 🌱 Currently Focused On
-
-- Building production-ready full-stack systems
-- Improving system design skills
-- Cloud deployment & scalability
-- AI-assisted developer tools
+Frontend: React • JavaScript • TailwindCSS
+Backend: Node.js • Express • Laravel • PHP
+Databases: MongoDB • MySQL
+Tools: Git • GitHub • Vercel
 
 ---
 
 ## 📊 GitHub Stats
 
-![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=esnoko&theme=gruvbox_dark&show_icons=true)
+![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=esnoko\&theme=gruvbox_dark\&show_icons=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esnoko&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esnoko&layout=compact&theme=dark)](https://github.com/esnoko)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esnoko\&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-📧 Elvisnoko18@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/nokodev  
-🌐 Portfolio: https://esnoko.netlify.app  
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
+📧 [elvisnoko18@gmail.com](mailto:elvisnoko18@gmail.com)
+💼 linkedin.com/in/nokodev
+🐦 x.com/NokoDev

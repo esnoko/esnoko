@@ -1,65 +1,96 @@
-# 👋 Hi, I'm Elvis Noko
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-### Full-Stack Developer | System Builder | React • Node.js • Laravel • APIs
+<div align="center">
+  <h2>Full-Stack Developer | System Builder | React • Node.js • Laravel • APIs</h2>
+</div>
 
-I build production-ready full-stack systems with a strong focus on backend architecture, REST APIs, authentication systems, and developer tools.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nokodev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-I specialize in turning ideas into real, usable software — especially dashboards, workflow systems, and API-driven applications.
+  <a href="https://github.com/esnoko">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:elvisnoko18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/NokoDev">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=esnoko&style=flat-square&color=blue" />
+</div>
 
 ---
 
-## 🚀 Featured Project — DevTrack (Main Focus)
+# 👋 Hi, I'm Elvis Noko
+
+Full-Stack Developer focused on building real-world software systems and developer tools.
+
+I specialize in designing and building scalable backend systems, REST APIs, authentication flows, and full-stack applications using React, Node.js, and Laravel.
+
+I enjoy turning ideas into working systems — especially dashboards, workflow platforms, and API-driven applications.
+
+---
+
+## 🚀 Featured Project — DevTrack (Flagship System)
 
 🔗 Live Demo: https://dev-track-lime.vercel.app
 
 DevTrack is my flagship full-stack system.
 
-It is a developer analytics platform that tracks GitHub activity and translates it into meaningful insights about skill growth and job readiness.
+It is a developer analytics platform that tracks GitHub activity and transforms it into meaningful insights about skill growth and job readiness.
 
-It is designed to help developers understand their progress using real data, not assumptions.
+The goal is to help developers understand their progress using real data instead of assumptions.
 
-**Key Features:**
+### Key Features:
+- GitHub API integration (repos, commits, languages)
+- Developer activity tracking and analytics dashboard
+- Skill progression and growth visualization
+- REST API backend architecture
+- Responsive full-stack UI
 
-* GitHub API integration (repos, commits, languages)
-* Developer activity tracking and visualization
-* Skill progression dashboard
-* REST API backend architecture
-* Responsive analytics interface
-
-**Stack:**
+### Tech Stack:
 React • Node.js • Express • REST APIs • MongoDB
 
 ---
 
 ## 🧠 What I Build
 
-* Full-stack web systems (not just UI apps)
-* REST APIs and backend services
-* Authentication and role-based systems
-* Dashboard and analytics platforms
-* Developer productivity tools
+- Full-stack web systems (production-ready, not tutorial projects)
+- REST APIs and backend services
+- Authentication and role-based systems
+- Dashboard and analytics platforms
+- Developer productivity tools
 
 ---
 
 ## 🛠 Tech Stack
 
-Frontend: React • JavaScript • TailwindCSS
-Backend: Node.js • Express • Laravel • PHP
-Databases: MongoDB • MySQL
-Tools: Git • GitHub • Vercel
+**Frontend:** React • JavaScript • TailwindCSS  
+**Backend:** Node.js • Express • Laravel • PHP  
+**Databases:** MongoDB • MySQL  
+**Tools:** Git • GitHub • Vercel
 
 ---
 
 ## 📊 GitHub Stats
 
-![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=esnoko\&theme=gruvbox_dark\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esnoko&theme=gruvbox_dark&show_icons=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esnoko\&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esnoko&theme=dark)](https://git.io/streak-stats)
 
 ---
 
 ## 📫 Contact
 
-📧 [elvisnoko18@gmail.com](mailto:elvisnoko18@gmail.com)
-💼 linkedin.com/in/nokodev
+📧 elvisnoko18@gmail.com  
+💼 linkedin.com/in/nokodev  
 🐦 x.com/NokoDev

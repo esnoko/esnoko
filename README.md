@@ -81,11 +81,12 @@ React • Node.js • Express • REST APIs • MongoDB
 
 ---
 
-## 📊 GitHub Stats
+## 📊Esnoko's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esnoko&theme=gruvbox_dark&show_icons=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esnoko&theme=dark)](https://git.io/streak-stats)
+<a href="https://github.com/esnoko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esnoko&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esnoko&theme=buefy&layout=compact" />
+</a>
 
 ---
 
